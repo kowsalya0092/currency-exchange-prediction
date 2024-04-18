@@ -15,7 +15,7 @@ The dataset used in this currency exchange rate prediction project is from Yahoo
 
 ## 🛠️ Tools Used:
 
-[![My Skills](https://skillicons.dev/icons?i=python, pycharm, sklearn,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,sklearn,pycharm&perline=3)](https://skillicons.dev)
 
 ## 📈 Skills Used:
 
